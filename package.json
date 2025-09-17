@@ -1,0 +1,21 @@
+{
+  "name": "private-video-call-system",
+  "version": "1.0.0",
+  "description": "Private Video Call System with FHE Encryption",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 8080 -c-1 --cors",
+    "dev": "npx http-server . -p 3000 -c-1 --cors"
+  },
+  "keywords": [
+    "video-call",
+    "privacy",
+    "blockchain",
+    "encryption",
+    "fhe"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
